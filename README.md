@@ -1,7 +1,3 @@
-Here's a GitHub README for the provided code in Markdown format:
-
----
-
 # Linear Algebra Study Tool
 
 This Python script generates prompts for an AI tutor based on specified difficulty levels. It filters a predefined list of linear algebra problem types and provides a problem scaled to the requested difficulty level. The generated prompt is copied to the clipboard for easy use.
